@@ -13,13 +13,3 @@ __pycache__/
 .DS_Store
 Thumbs.db
 desktop.ini
-
-# Large binary files (>100MB, cannot push to GitHub)
-*.love
-extracted_resources/game.love
-
-# Optional: other large binaries
-# *.ogg
-# *.mp3
-# *.png
-# *.jpg
